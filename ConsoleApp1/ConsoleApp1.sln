@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "odev", "ConsoleApp1\odev.csproj", "{38138E73-0C51-4471-9B68-88B028DAF47F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "okanuni", "okul\okanuni.csproj", "{A596A2E6-8EC4-4E3D-B98A-22B9D47B40F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38138E73-0C51-4471-9B68-88B028DAF47F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38138E73-0C51-4471-9B68-88B028DAF47F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38138E73-0C51-4471-9B68-88B028DAF47F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38138E73-0C51-4471-9B68-88B028DAF47F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A596A2E6-8EC4-4E3D-B98A-22B9D47B40F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A596A2E6-8EC4-4E3D-B98A-22B9D47B40F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A596A2E6-8EC4-4E3D-B98A-22B9D47B40F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A596A2E6-8EC4-4E3D-B98A-22B9D47B40F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F15C840-68B2-40FB-AF0E-8040D4B26084}
+	EndGlobalSection
+EndGlobal
